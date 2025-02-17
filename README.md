@@ -7,6 +7,8 @@ Nanofiles se trata de un sistema de compartición y transferencia de ficheros. E
 * Entre el servidor de directorio y los peers cliente, la comunicación se basa en el modelo Cliente-Servidor mediante el protocolo UDP, con un formato de mensaje textual.
 * Entre los peers, la comunicación se basa en el modelo Peer-To-Peer (P2P) mediante el protocolo TCP, con un formato de mensaje binario.
 
+La nota obtenida por este proyecto fue un 10.
+
 ## Especificación del proyecto
 
 Para más detalles puede consultar el [enunciado del proyecto](https://github.com/asuliitoh/Nanofiles/blob/bd27aa5a31b2ab8bb3a888137fe7edd58453fca1/EnunciadoNanofiles.pdf) y la [implementación tecnica](https://github.com/asuliitoh/Nanofiles/blob/c8764920ab692015c33d1c37393251cea90f26e2/Redes%20Proyecto.pdf).
