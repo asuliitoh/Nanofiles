@@ -14,7 +14,6 @@ Nanofiles se trata de un sistema de compartición y transferencia de ficheros. E
 3. Un peer cliente puede descargar de un único servidor especificando IP:Puerto, o puede descargar los datos de múltiples servidores que dispongan del fichero.
 
 Para más detalles sobre la especificación del proyecto, puedes consultar su enunciado en el siguiente [enlace](https://github.com/asuliitoh/Nanofiles/blob/bd27aa5a31b2ab8bb3a888137fe7edd58453fca1/EnunciadoNanofiles.pdf). 
-
 Para más detalles sobre la implementación técnica, puedes consultar la memoria en el siguiente [enlace](https://github.com/asuliitoh/Nanofiles/blob/c8764920ab692015c33d1c37393251cea90f26e2/Redes%20Proyecto.pdf).
 
 ## Autores
