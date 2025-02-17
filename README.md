@@ -4,8 +4,8 @@
 
 Nanofiles se trata de un sistema de compartición y transferencia de ficheros. Está formado por un servidor de directorio (programa Directory) y un conjunto de peers (programa Nanofiles) que se comunican entre sí de la siguiente manera:
 
-* Entre el servidor de directorio y los peers cliente, la comunicación se basa en el modelo Cliente-Servidor. 
-* Entre los peers, la comunicación se basa en el modelo Peer-To-Peer (P2P).
+* Entre el servidor de directorio y los peers cliente, la comunicación se basa en el modelo Cliente-Servidor mediante el protocolo UDP, con un formato de mensaje textual.
+* Entre los peers, la comunicación se basa en el modelo Peer-To-Peer (P2P) mediante el protocolo TCP, con un formato de mensaje binario.
 
 ## Especificación del proyecto
 
@@ -15,6 +15,11 @@ Nanofiles se trata de un sistema de compartición y transferencia de ficheros. E
 
 Para más detalles sobre la especificación del proyecto, puedes consultar su enunciado en el siguiente [enlace](https://github.com/asuliitoh/Nanofiles/blob/bd27aa5a31b2ab8bb3a888137fe7edd58453fca1/EnunciadoNanofiles.pdf). 
 
-## Documentación Completa
+Para más detalles sobre la implementación técnica, puedes consultar la memoria en el siguiente [enlace](https://github.com/asuliitoh/Nanofiles/blob/c8764920ab692015c33d1c37393251cea90f26e2/Redes%20Proyecto.pdf).
 
-Para más detalles sobre la implementación técnica y el desarrollo del proyecto, puedes consultar la memoria en el siguiente [enlace](https://github.com/asuliitoh/Nanofiles/blob/c8764920ab692015c33d1c37393251cea90f26e2/Redes%20Proyecto.pdf).
+## Autores
+
+* Jesús Sánchez - [@asuliitoh](https://github.com/asuliitoh)
+* Jiahui Lin - [@JHLumu](https://github.com/JHLumu)
+
+
